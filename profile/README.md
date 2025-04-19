@@ -10,9 +10,13 @@ like:
   - in-app purchases
   - lives systems for games that really dont need it
 
+we might even make our own at some point
+
 ## Won't you get in trouble or something?
 probably not
 
 they're free games
 
 we dont really gaf tho
+
+[a professional has standards](https://github.com/The-Codont-Collective/.github/blob/main/profile/LAWS.md)
